@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SadaDosaAnalytics
+- 👋 Hi, I’m @SadaDosaAnalytics. I am a Data Scientist.
 - 👀 I’m interested in Analytics, Maths and People.
 - 🌱 I’m currently learning how to make friends.
 - 💞️ I’m looking to collaborate on any analytics project or content creation in the same space.
